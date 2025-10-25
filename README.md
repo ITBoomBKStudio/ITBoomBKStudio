@@ -43,13 +43,6 @@ Some favorites:
 
 ---
 
-### 🌍 Path So Far
-- 🇺🇦 **Founder of BKStudio** — 85+ projects shipped across industries.  
-- 🇺🇸 **1.5 years in New York** — IYKYKnow.ai → Technical Lead.  
-- 🇪🇺 **Now in Europe**, still coding, still obsessed with clarity.
-
----
-
 ### 🧘‍♂️ Philosophy
 - Moderate perfectionism beats burnout heroism.  
 - Code is a craft, not a contest.  

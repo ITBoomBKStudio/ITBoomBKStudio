@@ -25,7 +25,7 @@ Also fluent in `Python`, `Kotlin`, `Swift`, `PHP`, and mild insanity.
 ---
 
 ### ⚡ Highlights
-🧱 **[@itboom/drizzle-utils](https://github.com/itboom-dev/drizzle-utils)** — Typed tools for Drizzle ORM.  
+🧱 **[@itboom/prisma-types](https://github.com/itboomdev/prisma-types)** — Typed tools for Prisma ORM.  
 🏗 **EstCarGo Marketplace** — multi-region real estate platform with live auctions.  
 🎨 **HeroUI Contributions** — improving type safety and developer experience in React component design.  
 🤖 **AI Projects** — multi-agent workflows using AutoGen, CrewAI, and LangChain.
